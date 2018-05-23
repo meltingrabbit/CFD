@@ -1,5 +1,5 @@
 # CFD
-Computational Fluid Dynamics
+数値流体力学 / Computational Fluid Dynamics
 
 ## BoundaryLayerEquations
   + 境界層流れ
