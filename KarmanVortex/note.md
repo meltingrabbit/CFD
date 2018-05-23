@@ -1,7 +1,7 @@
-# KarmanVortex
+﻿# KarmanVortex
 カルマン渦の再現
 
-## file list
+## File List
   + ./scr
     * source code (C++)
   + ./visualization
@@ -9,4 +9,5 @@
   + ./result
     * result animation
 
-
+## Detail Information
+http://meltingrabbit.dip.jp/blog/article/2017120201/
