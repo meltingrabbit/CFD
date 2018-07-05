@@ -10,4 +10,4 @@
     * result animation
 
 ## Detail Information
-http://meltingrabbit.dip.jp/blog/article/2017120201/
+http://meltingrabbit.com/blog/article/2017120201/
